@@ -59,13 +59,13 @@ I'd like to exit the fortune teller and see a goodbye message
 ```
 As an indecisive user,
 So that I don't have to think of a question,
-I can pick from a list of possible questions about my future
+I can pick from a list of possible questions about my future and get a prediction
 ```
 
 ```
 As an indecisive user,
 So that I can avoid all decisions,
-I can have a random question picked for me
+I can have a random question picked for me and see the question and prediction
 ```
 
 ### Example interaction
@@ -92,7 +92,7 @@ I can have a random question picked for me
 > My crystal ball shows me that the future is cloudy.
 > Would you like a different prediction Y/N?
 > Y
-> My crystal ball shows me that the brave triumph
+> My crystal ball shows me that the brave triumph.
 > Would you like a different prediction Y/N?
 > N
 > I am the Mysterious Zog, what would you like to do?
@@ -102,5 +102,5 @@ I can have a random question picked for me
 > 4 - Random question
 > 5 - Exit
 > 5
-> Goodbye, may luck be with you
+> Goodbye, may luck be with you...
 ```
