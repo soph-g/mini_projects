@@ -7,6 +7,8 @@ When solving the kata you should aim for the following:
 - Clean code that retains readability
 - Test driving development
 
+## Guidance
+
 Choose a kata and practice it until you are building it fluently, and then move onto a new kata. If you want to increase complexity then the following order of practice is proposed:
 
 1. FizzBuzz
