@@ -38,7 +38,7 @@ It can be tricky to translate numbers into their roman numeral equivalent, write
  => "CCL"
 2.4.1 :010 > roman_numeral(984)
  => "CMLXXXIV"
-2.4.1 :006 > roman_numeral(1000)
+2.4.1 :011 > roman_numeral(1000)
  => "M"
 ```
 
