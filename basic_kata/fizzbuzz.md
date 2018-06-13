@@ -5,7 +5,7 @@ A classic! FizzBuzz is a game where the group counts from 1 to as high as they c
 - Say 'Fizz' when the number is divisible by 3
 - Say 'Buzz' when the number is divisible by 5
 - Say 'FizzBuzz' when the number is divisible by 3 and 5
-- Say the number is not divisible by 3 or 5
+- Say the number when it is not divisible by 3 or 5
 
 ## User Stories
 
