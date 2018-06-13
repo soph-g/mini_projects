@@ -70,8 +70,8 @@ I want to see the number returned when I enter a number that is not divisible by
 
 ## Extension Options
 
-- Play FizzBuzz by passing a number and having all the numbers return from 1 to the given number, with the appropriate substitutions
+- Write a program that takes a number, and returns an array of the FizzBuzz sequence from 1 to the given number, with the appropriate substitutions.
 
 - Play FizzBuzz against a robot by taking it in turns to give the correct answer in the sequence from 1 upwards. Play ends when the player makes a mistake.
 
-- Test FizzBuzz skills by being given a random number, and having to say whether it would be equal to the number, Fizz, Buzz or FizzBuzz when playing a game of FizzBuzz.
+- Write a program that tests a player's FizzBuzz skills by giving a random number, the player would then guess it would be equal to the number, Fizz, Buzz or FizzBuzz when playing a game of FizzBuzz. Play ends when the player makes a mistake.
