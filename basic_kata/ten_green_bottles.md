@@ -5,7 +5,7 @@ Write a program that returns the lyrics to the classic children's song.
 
 ## Lyrics
 
-Pay particular attention to the penultimate and final verses!
+Hint: pay particular attention to the penultimate and final verses!
 
 ```
 Ten green bottles
