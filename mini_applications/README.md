@@ -19,12 +19,10 @@ Choose a challenge and implement the user stories until you run out of features 
 
 Once you have a feature-rich, well structured command line application there are many ways you could take any of these challenges further:
 
-  1) Build a command line interface for the user interaction
+  1) Build a web front end for the user interaction
 
-  2) Build a web front end for the user interaction
+  2) Hook the application up to a database
 
-  3) Hook the application up to a database
+  3) Add user authentication
 
-  4) Add user authentication
-
-  5) Use your imagination...!
+  4) Use your imagination to extend the functionality!
