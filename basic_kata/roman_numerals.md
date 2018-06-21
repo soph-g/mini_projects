@@ -29,7 +29,7 @@ It can be tricky to translate numbers into their roman numeral equivalent, write
 2.4.1 :005 > roman_numeral(75)
  => "LXXV"
 2.4.1 :006 > roman_numeral(99)
- => "IC"
+ => "XCIX"
 2.4.1 :007 > roman_numeral(112)
  => "CXII"
 2.4.1 :008 > roman_numeral(164)
