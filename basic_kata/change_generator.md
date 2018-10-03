@@ -14,7 +14,7 @@ Given a number in pounds and pence, work out the most efficient way of breaking 
 2.4.1 :004 > change_generator(16.30)
  => ["£10", "£5", "£1", "20p", "10p"]
 2.4.1 :005 > change_generator(19.99)
- => ["£10", "£5", "£1", "£1", "1", "£1", "50p", "20p", "20p", "5p", "1p", "1p", "1p", "1p"]
+ => ["£10", "£5", "£1", "£1", "1", "£1", "50p", "20p", "20p", "5p", "2p", "2p"]
 2.4.1 :006 > change_generator(76.81)
  => ["£50", "£20", "£5", "£1", "50p", "20p", "10p", "1p"]
 ```
